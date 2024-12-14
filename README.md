@@ -1,1 +1,3 @@
 # CFPB-
+
+This term paper aims to analyze Consumer Complaints Dataset provided by Consumer Financial Protection Bureau (CFPB) and provide insights into the nature and patterns of consumer complaints in the USA. We begin by describing the dataset and its features, including the types of complaints, companies involved, and geographic distribution. We then conduct exploratory data analysis to identify trends and patterns in the data, such as the most common types of complaints, the companies with the highest number of complaints, and the states with the most complaints. We have also performed descriptive and inferential statistics to test hypotheses and draw conclusions about the data.
